@@ -1,4 +1,4 @@
-name: Deploy SignaturePDF Container
+name: Deploy container to superfishial
 on:
   push:
     branches:
